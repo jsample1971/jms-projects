@@ -1,0 +1,171 @@
+a {
+  color: #1b262c;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black;
+}
+
+body {
+  background-color: linen;
+  font-family: 'Scada', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: darkslategrey;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 3rem;
+  margin: 0;
+}
+
+h2 {
+  color: darkslategrey;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Scada', sans-serif;
+  color: #5b5656;
+}
+
+hr {
+  border-color: lightgray;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 30%;
+}
+
+/***CLASS SELECTORS***/
+
+.attribution{
+  margin-top: 1rem;
+}
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 1rem;
+}
+
+.teams {
+  padding: 30px;
+}
+
+.first-pass{
+  padding: 30px;
+}
+
+
+
+.contact-button {
+  color: lightgrey;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 30px;
+  background: darkslategrey;
+  box-shadow:         0 2px 1px rgba(50, 50, 50, 0.75);
+}
+
+.contact-button:hover {
+  color: black;
+  background-color: lightgrey;
+}
+
+.copyright {
+  color: #f5f0e3;
+}
+
+.footer-link {
+  color: #11999e;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.middle-container {
+  padding: 2.5rem 0 2.5rem 0;
+}
+
+.mortarboard {
+  float: right;
+  height: 15%;
+  margin-left: 30px;
+  width: 15%;
+}
+
+.narrow-text-section {
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: left;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  height: 250px;
+  width: 200px;
+}
+
+.profile-section {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+
+.skill-row {
+  line-height: 1.5;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.space-above{
+  margin-top:2rem;
+}
+
+.subtitle {
+  line-height: 1.5;
+}
+
+.surgeon {
+  background-color: #fae3d9;
+  border-radius: 100%;
+  float: left;
+  height: 20%;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.titleline {
+  color: darkslategrey;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 5rem;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-top: 50px;
+  position: relative;
+}
+
+.underlined {
+  text-decoration: underline;
+}
